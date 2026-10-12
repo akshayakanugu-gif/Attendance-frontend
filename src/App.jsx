@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react"
-const BACKEND = "http://attendance-backend-ypkj.onrender.com"
+const BACKEND = "https://attendance-backend-ypkj.onrender.com"
 
 // 5 FIXED STUDENTS
 const FIVE_STUDENTS = [
